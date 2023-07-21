@@ -1,1 +1,8 @@
+<<<<<<< HEAD
 modifying by dev2
+=======
+modiguoijh by dev 1
+mody by dev 2
+>>>>>>> 475673a78e5776abeb4b05c11c271d3c3cef2194
+i am going to do this okay
+
